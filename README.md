@@ -1,5 +1,5 @@
 ## About me 👋:
-I am currently working as a Geomatics Specialist. <br> I am focusing my work on geospatial applications <br> Let's talk about planes 
+:airplane: I am currently working as a Geomatics Specialist. <br> I am focusing my work on geospatial applications <br> Let's talk about planes 
 
 # Socials:
 <!--
