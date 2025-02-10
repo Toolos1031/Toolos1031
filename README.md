@@ -1,5 +1,7 @@
-## Hi there 👋
+## About me 👋:
+I am currently working as a Geomatics Specialist. <br> I am focusing my work on geospatial applications <br> Let's talk about planes 
 
+# Socials:
 <!--
 **Toolos1031/Toolos1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
